@@ -33,7 +33,7 @@ jennifer.mckinney@croiai.com
 ## ✨ Featured Projects
 
 <!-- Highlight 2-3 projects here with a brief description for each -->
-- [candidate-review](https://github.com/jennifer-mckinney/my-skills)  
+- [my-skills](https://github.com/jennifer-mckinney/my-skills)  
 - [knowledge-map](https://github.com/jennifer-mckinney/knowledge-map)
 - 
 ---
