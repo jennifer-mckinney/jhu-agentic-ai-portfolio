@@ -17,28 +17,25 @@ I'm passionate about building, learning, and sharing innovative solutions.
 
 ## 🌱 About Me
 
-- 💡 Always exploring new technologies and creative ideas
+- 💡 Data Story Telling, multimodel, knowlege graphs, AI solutions from the ground up, Automations with Audit trails, 
+- Always exploring new technologies and creative ideas
 - 👩‍💻 Collaborator, problem solver, and lifelong learner
 - 📈 Committed to continuous growth and innovation
-
----
-
-## 📊 GitHub Stats
-
-![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifer-mckinney&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
 
 <!-- Add your preferred contact methods here -->
-
+jennifer.mckinney@croiai.com
 ---
 
 ## ✨ Featured Projects
 
 <!-- Highlight 2-3 projects here with a brief description for each -->
-
+- [candidate-review](https://github.com/jennifer-mckinney/my-skills)  
+- [knowledge-map](https://github.com/jennifer-mckinney/knowledge-map)
+- 
 ---
 
 Thank you for visiting my profile!  
