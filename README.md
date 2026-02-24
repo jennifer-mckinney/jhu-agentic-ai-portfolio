@@ -42,6 +42,12 @@ An AI-powered mortgage underwriting assistant that evaluates applicant profiles,
 
 ---
 
+## 💭 Program Reflection
+
+Across three projects, I progressed from designing a single-pipeline RAG system, to architecting an autonomous multi-tool agent with failure resilience, to building a coordinated multi-agent workflow under regulatory constraints. The throughline is systems-level thinking: how tools integrate, where data integrity breaks, what failure modes emerge at scale, and how architectural decisions made early determine whether a system is deployable or just demonstrable. Each project surfaced integration gaps and edge cases that only appear when you're thinking beyond the individual component — and resolving them before they slow the system down is the work I find most valuable.
+
+---
+
 ## 🚀 Other Repositories
 
 - [automationgit](https://github.com/jennifer-mckinney/automationgit)
