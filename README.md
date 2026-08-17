@@ -50,11 +50,10 @@ Across three projects, I progressed from designing a single-pipeline RAG system,
 
 ## 🚀 Other Repositories
 
-- [automationgit](https://github.com/jennifer-mckinney/automationgit)
-- [knowledge-map](https://github.com/jennifer-mckinney/knowledge-map)
-- [my-skills](https://github.com/jennifer-mckinney/my-skills)
-- [candidate-review](https://github.com/jennifer-mckinney/candidate-review)
-- [scrolly](https://github.com/jennifer-mckinney/scrolly)
+- [terms-analysis](https://github.com/jennifer-mckinney/terms-analysis) — Privacy-first analysis of Terms of Service and privacy policies. Flags high-risk clauses, maps compliance requirements, and explains implications in plain language.
+- [pulse-of-ai](https://github.com/jennifer-mckinney/pulse-of-ai) — Real-time dashboard tracking AI discourse, with sentiment analysis and ethical monitoring.
+- [job-search-automation](https://github.com/jennifer-mckinney/job-search-automation) — An automation that inverts the job-search model: scouts fitting roles, tailors materials, routes to the correct ATS, and tracks everything, with a human in the loop for every irreversible action.
+- [seattleaigal-blog](https://github.com/jennifer-mckinney/seattleaigal-blog) — Writing on AI ethics, architecture, compliance, and labor. seattleaigal.blog
 
 ---
 
