@@ -32,7 +32,7 @@ jennifer.mckinney@croiai.com
 **File:** `DualLens_Analytics_Project1.html`  
 A dual-perspective analytics solution that leverages agentic AI to surface insights from multiple data lenses simultaneously, enabling richer, more nuanced data storytelling.
 
-### Project 2 — Autonomous Financial Analyst
+### Project 2 — Autonomous Financial Research Analyst
 **File:** `Autonomous_Financial_Analyst_Project2.ipynb`  
 An autonomous agent designed to perform end-to-end financial analysis — gathering data, identifying trends, and generating narrative summaries — with minimal human intervention.
 
